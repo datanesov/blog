@@ -1,18 +1,19 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Добро пожаловать,сейчас я вам расскажу что было на прошлой неделе.
+subtitle: Сейчас я расскажу о событиях которые произошли на прошлой неделе.Даниил Атанесов.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome 👋 Добро пожаловать,сейчас я вам расскажу что было на прошлой неделе.
+subtitle: Сейчас я расскажу о событиях которые произошли на прошлой неделе.Даниил Атанесов..
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2022-12-17T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-12-10T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +24,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'photoalbum: [**anarchist**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -43,33 +44,31 @@ categories:
 
 ```python
 import libr
-print('hello')
+print('anarchist_6633')
 ```
 
-## Overview
+## Хронология событий
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+добро пожаловать 👋 На прошлой неделе я ремонтировал интересный ноутбук dell который оказался 2002 года мне было не легко восстановить его внешний вид и его работоспособность, я восстановил ему цепь питания, и почистил всю систему охлаждения от пыли и заменил весь термоинтерфейс после чего ноутбук включился и заработал и на этом моя работа была оконочена.
+
 
 [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
 
-## Get Started
-
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
+## Начать
+- 👉 [**Создать новый сайт**](https://wowchemy.com/templates/)
+- 📚 [**Оформление сайта**](https://wowchemy.com/docs/)
+- 💬 [Переписка с **Wowchemy community**](https://discord.gg/z8wNYzb) or [**командой Hugo**](https://discourse.gohugo.io)
+- 🐦 Телеграф: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+- ⬆️ **Обновить WOWCHEMY** показать [Обновление пособия](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
 
-## Crowd-funded open-source software
+## Поддержка финансами
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Чтобы поддержать развитие проекта вы можете отправлять мне на номер +7-936-515-16-12 деньги.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
+### [❤️ НАЖМИТЕ ДЛЯ ПЕРЕВОДА ДЕНЕГ СО СЧЁТА ❤️](https://wowchemy.com/sponsor/)
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
+За токены вы сможете **открыть [эти](https://wowchemy.com/sponsor/) удивительные награды и супер плюшки 
 
 ## Ecosystem
 
@@ -99,12 +98,12 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 
 ## Themes
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+Если внезапно поломался ноутбук греется или виснет то с радостью помогу в вашей проблеме и цены отличаются в хорошую сторону пишите мне на мой телеграмм @anarch101 или звоните пономеру +7-936-515-16-12.
 
 [Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+Copyright 2049-present [Арнольд Шварценегер](https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D1%80%D1%86%D0%B5%D0%BD%D0%B5%D0%B3%D0%B3%D0%B5%D1%80,_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
